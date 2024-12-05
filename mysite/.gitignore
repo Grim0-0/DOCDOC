@@ -1,0 +1,23 @@
+# Virtual environments
+myenv/
+venv/
+myvenv/
+.env
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Django
+db.sqlite3
+/media/
+/staticfiles/
+/documents/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
