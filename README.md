@@ -38,25 +38,25 @@ Ensure you have Python installed on your system. You can download it from [pytho
 Using a virtual environment to manage the dependencies and keep your system organized is recommended. You can set up a virtual environment by running the following commands in your terminal:
 
 # Install virtualenv if it's not installed
-pip install virtualenv
+- pip install virtualenv
 
 # Create a virtual environment
-virtualenv venv
+- virtualenv venv
 
 # Activate the virtual environment
 # On Windows
-venv\Scripts\activate
+- venv\Scripts\activate
 # On MacOS/Linux
-source venv/bin/activate
+- source venv/bin/activate
 
 ## Installing Dependencies
-All required dependencies are listed in the requirements.txt file which is provided in the project. Once your virtual environment is active, install these dependencies by running:
-pip install -r requirements.txt
-This will install all necessary packages to ensure the project runs correctly.
+- All required dependencies are listed in the requirements.txt file which is provided in the project. Once your virtual environment is active, install these dependencies by running:
+- pip install -r requirements.txt
+- This will install all necessary packages to ensure the project runs correctly.
 
 ## Running the Application
-With the dependencies installed, you can now run the application:
-python manage.py runserver
-Navigate to http://localhost:8000 in your web browser to access the application.
+- With the dependencies installed, you can now run the application:
+- python manage.py runserver
+- Navigate to http://localhost:8000 in your web browser to access the application.
 
 
