@@ -1,7 +1,7 @@
 # DOCDOC
 
 ## Introduction
-This website leverages the advanced capabilities of the [LayoutLMv2] (https://huggingface.co/docs/transformers/en/model_doc/layoutlm2) AI model to classify uploaded document images into predefined categories such as letters, forms, emails, resumes, and memos, enhancing efficient document management.
+This website leverages the advanced capabilities of the LayoutLMv2 (https://huggingface.co/docs/transformers/en/model_doc/layoutlm2) AI model to classify uploaded document images into predefined categories such as letters, forms, emails, resumes, and memos, enhancing efficient document management.
 
 ## Key Features
 - **Document Classification**: Automatically categorize documents based on content and layout.
